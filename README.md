@@ -19,12 +19,12 @@ Is project ka maqsad hai:
 
 ## ⚙️ Features
 
-✅ Length Converter (Lambai)
-✅ Weight Converter (Wazan)
-✅ Temperature Converter (Hararat)
-✅ History System (previous conversions save hoti hain)
-✅ Error Handling (galat input handle karta hai)
-✅ Simple CLI Interface (terminal pe chalne wala system)
+* ✅ Length Converter (Lambai)
+* ✅ Weight Converter (Wazan)
+* ✅ Temperature Converter (Hararat)
+* ✅ History System (previous conversions save hoti hain)
+* ✅ Error Handling (galat input handle karta hai)
+* ✅ Simple CLI Interface (terminal pe chalne wala system)
 
 ---
 
